@@ -1,3 +1,2 @@
 # Hello-World
-This is my first commit
-Adding changes manually
+I have done this before, nothing new
